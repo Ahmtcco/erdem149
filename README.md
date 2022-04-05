@@ -21,7 +21,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=eryilmaz)](https://profile.intra.42.fr/users/eryilmaz)
-[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/eryilmaz?cursus=C%20reloaded)](https://profile.intra.42.fr/users/eryilmaz)
+[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
+[![jaeskim's 42 stats](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+
+jaeskim's 42 ft_printf Score - [![jaeskim's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl0yx1v0j0158ns5shlllmdvb/project/2004625)](https://github.com/JaeSeoKim/badge42)
 
 ![snake svg](https://github.com/hakkisabah/hakkisabah/blob/output/github-contribution-grid-snake.svg)
