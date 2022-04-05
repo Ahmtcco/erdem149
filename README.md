@@ -21,4 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </p>
 
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?dark=true&login=eryilmaz)](https://profile.intra.42.fr/users/eryilmaz)
+[![mbari's 42 stats](https://badge42.herokuapp.com/api/stats/eryilmaz?cursus=C%20reloaded)](https://profile.intra.42.fr/users/eryilmaz)
+
 ![snake svg](https://github.com/hakkisabah/hakkisabah/blob/output/github-contribution-grid-snake.svg)
