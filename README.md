@@ -21,7 +21,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
-                                                                                                                
+  <img src="https://github.com/hakkisabah/hakkisabah/blob/output/github-contribution-grid-snake.svg"/>
 </p>
-
-![snake svg](https://github.com/hakkisabah/hakkisabah/blob/output/github-contribution-grid-snake.svg)
